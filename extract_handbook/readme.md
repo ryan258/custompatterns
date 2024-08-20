@@ -1,0 +1,1 @@
+cp -r .\custompatterns\* C:\Users\ryanl\.config\fabric\patterns\
